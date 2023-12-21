@@ -3,12 +3,6 @@
   
 
 
-- First-prize Academic Scholarship, 2023.
+- CURO Honors Scholarship (Univeristy of Georgia), 2023
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Gregg Farmer Award (The Center for Advanced Studies in Math, Science & Technology), 2023.

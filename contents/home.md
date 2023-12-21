@@ -1,13 +1,14 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+My name is Hanif Zaman, a current undergraduate biochemistry/molecular biology major and CURO Honors Scholar recipient at the University of Georgia. I have a particular interest in biomaterials for the purposes of regeneration and tissue engineering. 
 
 #### Email
-sli[at]cumt.edu.cn
+School: hanif.zaman@uga.edu
+Personal: hanif.zaman.a@gmail.com
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+August, 2023 - Present: Biochemistry/Molecular Biology, Franklin College of Arts and Sciences, University of Georgia
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+August, 2019 - May, 2023: The Center for Advanced Studies in Science, Math & Technology at Wheeler High School
 
 #### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Biomaterials, Tissue Engineering, Regenerative Medicine
