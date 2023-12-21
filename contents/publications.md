@@ -1,2 +1,2 @@
 
-- *<strong><strong>Zaman, H.</strong></strong> (2023). Analyzing Differential Expression in a Keratinocyte-Fibroblast Co-culture Exposed to Keratose and Kerateine &#91;Thesis&#93;. The Center for Advanced Studies in Math, Science & Technology.*
+- *<strong><strong>Zaman, H.</strong></strong> (2023). Analyzing Differential Expression in a Keratinocyte-Fibroblast Co-culture Exposed to Keratose and Kerateine &#91;Thesis&#93;. The Center for Advanced Studies in Math, Science & Technology.* [[Paper]](https://drive.google.com/file/d/14Tr8xbXMbE04gVC3ppU40raY-IgAU9bU/view?usp=drive_link) [[Presentation]](https://drive.google.com/file/d/1LpKSKG2obx5bGq_4gXC8jlIUlZeKHbzw/view?usp=sharing)
